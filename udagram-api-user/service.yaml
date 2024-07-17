@@ -6,7 +6,7 @@ metadata:
     run: backend-user
 spec:
   ports:
-  - port: 8080
+  - port: 8081
     protocol: TCP
   selector:
     run: backend-user

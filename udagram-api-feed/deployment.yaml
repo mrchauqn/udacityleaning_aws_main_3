@@ -18,5 +18,5 @@ spec:
       - name: backend-feed
         image: mrchau1210/udagram-api-feed
         ports:
-        - containerPort: 80
+        - containerPort: 8082
 

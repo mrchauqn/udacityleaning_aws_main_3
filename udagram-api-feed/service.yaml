@@ -6,7 +6,7 @@ metadata:
     run: backend-feed
 spec:
   ports:
-  - port: 8080
+  - port: 8082
     protocol: TCP
   selector:
     run: backend-feed
